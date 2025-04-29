@@ -1,5 +1,5 @@
-## Detec6-website-suitable-for-scraping
-Website Scraping Analyzer
+## Detect-website-suitable-for-scraping
+
 A comprehensive tool to analyze websites and determine the optimal approach for web scraping. This intelligent analyzer evaluates 28 key aspects of a website to help you make informed decisions about what technologies and strategies to use for your scraping projects.
 
 ## Features
