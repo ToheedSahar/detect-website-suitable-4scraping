@@ -33,10 +33,10 @@ playwright install
 ## Usage
 Interactive Mode
 Run the script without arguments to use interactive mode:
-bashpython website_analyzer.py
+python website_analyzer.py
 The tool will prompt you for the website URL and configuration options.
 Command Line Mode
-bashpython website_analyzer.py https://example.com [options]
+bashpython website_analyzer.py https://example.com [options] 
 
 ## Options:
 
